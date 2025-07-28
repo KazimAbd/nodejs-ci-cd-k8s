@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-ci-cd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"No tests\" && exit 0"
+  }
+}
